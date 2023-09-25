@@ -26,4 +26,4 @@
 ### 1. Sales Performance
 ![image](https://github.com/Anpuer/Superstore-Sales/assets/144112015/848c3359-97e8-45ab-9900-9e447d44284e)
 ### 2. Addtional Information
-![Uploading image.png…]()
+![image](https://github.com/Anpuer/Superstore-Sales/assets/144112015/c6eb95a9-17e5-498b-9241-ac2288a9e8c0)
