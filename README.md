@@ -22,3 +22,8 @@
 ![image](https://github.com/Anpuer/Superstore-Sales/assets/144112015/56042a7e-faa6-4a4a-a966-3d7f0f914dc4)
 ### Step 5. Review
 ![image](https://github.com/Anpuer/Superstore-Sales/assets/144112015/16c6cfdb-0867-4124-8c51-18952475ba0a)
+## III. Visualization
+### 1. Sales Performance
+![image](https://github.com/Anpuer/Superstore-Sales/assets/144112015/848c3359-97e8-45ab-9900-9e447d44284e)
+### 2. Addtional Information
+![Uploading image.png…]()
