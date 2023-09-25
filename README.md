@@ -13,7 +13,7 @@
 - Create a dashboard that provides insights and recommendations analyzed from that dashboard, to help stakeholders solve the problems they are facing.
 ## II. Design Thinking
 ### Step 1. Empathize
-![image](https://github.com/Anpuer/Superstore-Sales/assets/144112015/8b4034fd-e1cb-48c8-8a64-8881800b37e5)
+![image](https://github.com/Anpuer/Superstore-Sales/assets/144112015/6b3530f0-8faf-4835-9196-228be4f13223)
 ### Step 2. Define 
 ![image](https://github.com/Anpuer/Superstore-Sales/assets/144112015/0b15e7fb-39c7-4ddb-89c9-0fc6cfc75d18)
 ### Step 3. Ideate
