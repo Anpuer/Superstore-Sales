@@ -1,4 +1,4 @@
-![image](https://github.com/Anpuer/Superstore-Sales/assets/144112015/bf9beb4d-d045-4c36-b640-50ab89ce367c)# [POWER BI] Expansion Stragety for Superstore Sales
+# [POWER BI] Expansion Stragety for Superstore Sales
 ## I. Introduction
 ### 1. Dataset
 - Dataset: Global Superstore Sales
