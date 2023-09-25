@@ -27,3 +27,14 @@
 ![image](https://github.com/Anpuer/Superstore-Sales/assets/144112015/848c3359-97e8-45ab-9900-9e447d44284e)
 ### 2. Addtional Information
 ![image](https://github.com/Anpuer/Superstore-Sales/assets/144112015/c6eb95a9-17e5-498b-9241-ac2288a9e8c0)
+## IV. Insights
+- From 2011 to 2014, the economic growth rate tended to increase every year, profit margins did not fluctuate signifcantly.
+- The customers segment that brings in the largest revenues is consumers.
+- EMEA and Africa are the two markets with the largest profit margins (**EMEA**: 35.98%, **Africa**: 34.02%) while revenue is quite low.
+- American is the country that brings in the most revenue.
+- The kind of "Office Supplies" product (mainly about bags wrap, packaging, papers, ...) have the highest profit margin and also is the kind of product that have the lowest return rate.
+- There is a hole difference between the sales of top salesperson and other.
+- The EMEA and Canada markets have only one salesperson.
+- APAC and EU markets have very high average sales but the average shipping costs for these markets are also the largest.
+- 
+## V. Recommendations
